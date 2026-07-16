@@ -1,0 +1,11 @@
+Components not found on DigiKey.com (or only a false/fuzzy match to a different manufacturer's part was returned)
+Generated from pilot batch of components whose SchLib Description field was exactly "Connector" (2026-07-16)
+
+DesignItemID	Reason
+15EDGRC-3.5-03P-14-00AH	No results on DigiKey for this exact part number
+15EDGRC-3.5-04P	No results on DigiKey for this exact part number
+15EDGRC-3.5-05P	No results on DigiKey for this exact part number
+15EDGRC-3.5-12P	DigiKey search only returned a different manufacturer's part (Reliance North America, WJ15EDGRC-3.5-12p-14-RNA) - not a real match, discarded
+15EDGRC-3.5-14P	DigiKey search only returned a different manufacturer's part (Reliance North America, WJ15EDGRC-3.5-14p-14-RNA) - not a real match, discarded
+15EDGRC-5.08-08P	DigiKey search only returned a different manufacturer's part (Reliance North America, WJ15EDGRC-5.08-08p-14-RNA) - not a real match, discarded
+15EDGVC-5.08-07P_1	DigiKey search only returned a different manufacturer's part (Reliance North America, WJ15EDGVC-5.08-07p-14-RNA) - not a real match, discarded
